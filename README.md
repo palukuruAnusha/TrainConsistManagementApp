@@ -10,6 +10,7 @@ This project focuses on the design and implementation of a Train Consist Managem
 - **UC4**: Maintain Ordered Bogie IDs (TreeSet & SortedSet)
 - **UC5**: Preserve Insertion Order of Bogies (LinkedHashSet)
 - **UC6**: Map Bogie to Capacity (HashMap)
+- **UC7**: Sort Bogies by Capacity (Comparator)
 
 ## Branch Structure
 - **main**: Production-ready code
@@ -20,6 +21,7 @@ This project focuses on the design and implementation of a Train Consist Managem
 - **feature4/uc4**: UC4 implementation
 - **feature5/uc5**: UC5 implementation
 - **feature6/uc6**: UC6 implementation
+- **feature7/uc7**: UC7 implementation
 
 ## Getting Started
 This project demonstrates Core Java and Data Structures through incremental development of a railway management system.
