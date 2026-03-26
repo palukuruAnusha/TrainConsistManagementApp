@@ -12,6 +12,7 @@ This project focuses on the design and implementation of a Train Consist Managem
 - **UC6**: Map Bogie to Capacity (HashMap)
 - **UC7**: Sort Bogies by Capacity (Comparator)
 - **UC8**: Filter Passenger Bogies Using Streams
+- **UC9**: Group Bogies by Type
 
 ## Branch Structure
 - **main**: Production-ready code
@@ -24,6 +25,7 @@ This project focuses on the design and implementation of a Train Consist Managem
 - **feature6/uc6**: UC6 implementation
 - **feature7/uc7**: UC7 implementation
 - **feature8/uc8**: UC8 implementation
+- **feature9/uc9**: UC9 implementation
 
 ## Getting Started
 This project demonstrates Core Java and Data Structures through incremental development of a railway management system.
